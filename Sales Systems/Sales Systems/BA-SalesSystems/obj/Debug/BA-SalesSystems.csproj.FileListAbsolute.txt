@@ -1,0 +1,107 @@
+C:\Users\Jason Chan\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csprojResolveAssemblyReference.cache
+C:\Users\Jason Chan\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Properties.Resources.resources
+C:\Users\Jason Chan\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Sales.resources
+C:\Users\Jason Chan\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csproj.GenerateResource.Cache
+C:\Users\Jason Chan\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csproj.CoreCompileInputs.cache
+C:\Users\Jason Chan\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe.config
+C:\Users\Jason Chan\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe
+C:\Users\Jason Chan\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\bin\Debug\BA-SalesSystems.pdb
+C:\Users\Jason Chan\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.exe
+C:\Users\Jason Chan\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.pdb
+C:\Users\Jason Chan\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Menu.resources
+C:\Users\Jason Chan\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.CreateSalesOrder.resources
+C:\Users\Jason Chan\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.SalesSummaryReport.resources
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe.config
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\bin\Debug\BA-SalesSystems.pdb
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.CreateSalesOrder.resources
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Menu.resources
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Properties.Resources.resources
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.PurchasingOrder.resources
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Sales.resources
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.SalesSummaryReport.resources
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.exe
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.pdb
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.OrderDeliveryReq.resources
+C:\Users\user\Desktop\C# Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.DeliverStatus.resources
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe.config
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.exe
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.pdb
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\bin\Debug\BA-SalesSystems.pdb
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csprojResolveAssemblyReference.cache
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.CreateSalesOrder.resources
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.DeliverStatus.resources
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Menu.resources
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.OrderDeliveryReq.resources
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Properties.Resources.resources
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.PurchasingOrder.resources
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Sales.resources
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.SalesSummaryReport.resources
+D:\School\Computer Science Sem 9\C# programming\Assignment\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csproj.GenerateResource.Cache
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe.config
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.exe
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.pdb
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\bin\Debug\BA-SalesSystems.pdb
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csprojResolveAssemblyReference.cache
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.CreateSalesOrder.resources
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.DeliverStatus.resources
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Menu.resources
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.OrderDeliveryReq.resources
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Properties.Resources.resources
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.PurchasingOrder.resources
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Sales.resources
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA_SalesSystems.SalesSummaryReport.resources
+C:\Users\pishila\Desktop\Sales Systems\BA-SalesSystems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csproj.GenerateResource.Cache
+C:\Users\pishila\Desktop\Apparel & Co\Apparel & Co\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe.config
+C:\Users\pishila\Desktop\Apparel & Co\Apparel & Co\BA-SalesSystems\obj\Debug\BA-SalesSystems.exe
+C:\Users\pishila\Desktop\Apparel & Co\Apparel & Co\BA-SalesSystems\obj\Debug\BA-SalesSystems.pdb
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe.config
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA-SalesSystems.exe
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA-SalesSystems.pdb
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\bin\Debug\BA-SalesSystems.pdb
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csprojResolveAssemblyReference.cache
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.CreateSalesOrder.resources
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.DeliverStatus.resources
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Menu.resources
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.OrderDeliveryReq.resources
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Properties.Resources.resources
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.PurchasingOrder.resources
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Sales.resources
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.SalesSummaryReport.resources
+C:\Users\pishila\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csproj.GenerateResource.Cache
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe.config
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA-SalesSystems.exe
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA-SalesSystems.pdb
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\bin\Debug\BA-SalesSystems.pdb
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.CreateSalesOrder.resources
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.DeliverStatus.resources
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Menu.resources
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.OrderDeliveryReq.resources
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Properties.Resources.resources
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.PurchasingOrder.resources
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Sales.resources
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.SalesSummaryReport.resources
+C:\Users\Bryan\Desktop\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csproj.GenerateResource.Cache
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe.config
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA-SalesSystems.exe
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA-SalesSystems.pdb
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\bin\Debug\BA-SalesSystems.exe
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\bin\Debug\BA-SalesSystems.pdb
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.CreateSalesOrder.resources
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.DeliverStatus.resources
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Menu.resources
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.OrderDeliveryReq.resources
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Properties.Resources.resources
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.PurchasingOrder.resources
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.Sales.resources
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA_SalesSystems.SalesSummaryReport.resources
+C:\Users\Bryan\Desktop\FUSION\Sales Systems\Sales Systems\BA-SalesSystems\obj\Debug\BA-SalesSystems.csproj.GenerateResource.Cache
